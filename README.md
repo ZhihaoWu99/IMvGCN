@@ -48,7 +48,7 @@ Please unzip the datasets folders first.
 
 Saved in ./data/datasets/datasets.7z
 
-Note: Run construct_lp.py to generate laplacian matrices, and data splitting function can be found in utils.py. And please email me to get the 4 large datasets.
+*Note: You can run construct_lp.py to generate laplacian matrices, and data splitting function can be found in utils.py. Please feel free to email me for the four large datasets. *
 
 ## Reference
 
