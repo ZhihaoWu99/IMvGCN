@@ -23,17 +23,17 @@ python main.py
 ```
 
   * --device: gpu number or 'cpu'.
-  * --path: datasets.
+  * --path: path of datasets.
   * --dataset: name of datasets.
   * --seed: random seed.
   * --fix_seed: fix the seed or not.
-  * --n_repeated: number of repeated times.
+  * --n_repeated: number of repeat times.
   * --lr: learning rate.
   * --weight_decay: weight decay.
   * --ratio: label ratio.
   * --num_epoch: number of training epochs.
-  * --Lambda: hyperparameter.
-  * --alpha: hyperparameter.
+  * --Lambda: hyperparameter $\lambda$.
+  * --alpha: hyperparameter $\alpha$.
 
 All the configs are set as default, so you only need to set dataset.
 For example:
