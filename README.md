@@ -1,19 +1,5 @@
-[python-img]: https://img.shields.io/github/languages/top/ZhihaoWu99/IMvGCN?color=lightgrey
-[stars-img]: https://img.shields.io/github/stars/ZhihaoWu99/IMvGCN?color=yellow
-[stars-url]: https://github.com/ZhihaoWu99/IMvGCN/stargazers
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ZhihaoWu99/IMvGCN
-[adgc-url]: https://github.com/ZhihaoWu99/IMvGCN
-
 Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learning
 ====
-
-
-## Paper
-
-[![Made with Python][python-img]][adgc-url]
-[![GitHub stars][stars-img]][stars-url]
-[![visitors][visitors-img]][adgc-url]
-
 This is the Pytorch implementation of IMvGCN proposed in our paper:
 
 Zhihao Wu, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai and Shiping Wang*, [Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10080867), IEEE Transactions on Multimedia.
