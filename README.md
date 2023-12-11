@@ -2,7 +2,7 @@ Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learnin
 ====
 This is the Pytorch implementation of IMvGCN proposed in our paper:
 
-Zhihao Wu, Xincan Lin, Zhenghong Lin, Zhaoliang Chen, Yang Bai and Shiping Wang*, [Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10080867), IEEE Transactions on Multimedia.
+[Zhihao Wu](https://zhihaowu99.github.io/), Xincan Lin, Zhenghong Lin, [Zhaoliang Chen](https://chenzl23.github.io/), Yang Bai and Shiping Wang*, [Interpretable Graph Convolutional Network for Multi-view Semi-supervised Learning](https://ieeexplore.ieee.org/abstract/document/10080867), IEEE Transactions on Multimedia.
 
 ![framework](./framework.png)
 
