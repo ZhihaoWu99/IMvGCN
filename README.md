@@ -48,7 +48,9 @@ Please unzip the datasets folders first.
 
 Saved in ./data/datasets/datasets.7z
 
-*Note: You can run construct_lp.py to generate laplacian matrices, and data splitting function can be found in utils.py. Please feel free to email me for the four large datasets.*
+*Run construct_lp.py to generate laplacian matrices. Data splitting function can be found in utils.py.*
+
+*Please feel free to email me for the four large datasets or any questions.*
 
 ## Reference
 
@@ -58,6 +60,8 @@ Saved in ./data/datasets/datasets.7z
   journal={IEEE Transactions on Multimedia}, 
   title={Interpretable Graph Convolutional Network for Multi-View Semi-Supervised Learning}, 
   year={2023},
-  pages={1-14},
+  volume={25},
+  number={},
+  pages={8593-8606},
   doi={10.1109/TMM.2023.3260649}}
 ```
